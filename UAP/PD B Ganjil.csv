@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_name,cuisine_type,cost_of_the_order,day_of_the_week,rating,food_preparation_time,delivery_time
+1477722,347263,Dos Caminos,Mexican,12.08,Weekday,5,26,26
+1478319,84087,The Meatball Shop,Italian,16.49,Weekend,3,22,28
+1477650,284835,Shake Shack,American,15.57,Weekend,5,32,17
+1477960,375098,12 Chairs,Middle Eastern,29.1,Weekend,Not given,22,26
+1477278,347263,Hummus Place,Middle Eastern,16.15,Weekend,4,30,28
+1476793,77339,Rubirosa,Italian,9.17,Weekend,4,27,25
+1478228,86233,TAO,Japanese,15.28,Weekend,4,33,22
+1478435,350180,RedFarm Hudson,Chinese,20.32,Weekday,5,30,29
+1476847,114085,The Meatball Shop,Italian,24.3,Weekend,4,29,15
+1478058,200631,Amy Ruth's,Southern,7.38,Weekday,4,24,29
+1477584,275689,Cafe Habana,Mexican,16.98,Weekday,4,23,30
+1477684,39275,TAO,Japanese,15.28,Weekend,5,20,27
+1478223,234089,Blue Ribbon Sushi,Japanese,8.68,Weekend,5,34,27
+1476640,142773,Hibino,Japanese,14.02,Weekend,4,28,15
+1476933,375704,Shake Shack,American,32.98,Weekend,3,22,21
+1477537,104130,Blue Ribbon Sushi,Japanese,15.76,Weekend,Not given,30,26
+1477338,81110,Hill Country Fried Chicken,Southern,11.64,Weekend,4,35,21
+1478443,96943,Cafe Mogador,Middle Eastern,29.88,Weekend,4,20,17
+1477932,170221,Shake Shack,American,16.98,Weekend,Not given,22,21
+1477553,52037,L'Express,French,22.02,Weekday,Not given,21,27
+1477492,64658,Blue Ribbon Sushi Bar & Grill,Japanese,16.2,Weekday,5,27,27
+1477795,169478,RedFarm Broadway,Chinese,15.96,Weekday,4,35,33
+1476553,128224,Osteria Morini,Italian,9.17,Weekend,Not given,25,22
+1477293,316402,The Meatball Shop,American,12.13,Weekend,Not given,23,23
+1477926,72639,P.J. Clarke's,American,12.18,Weekend,3,22,28
+1477079,49086,Jack's Wife Freda,Mediterranean,12.13,Weekend,4,33,23
+1477959,175290,Otto Enoteca Pizzeria,Italian,29.05,Weekend,5,24,18
+1478138,50323,Rubirosa,Italian,24.3,Weekend,Not given,30,26
+1477689,203442,Terakawa Ramen,Japanese,19.6,Weekday,Not given,23,26
+1477879,362961,ilili Restaurant,Middle Eastern,16.49,Weekend,4,30,28
+1477308,321255,Shake Shack,American,5.63,Weekend,Not given,27,16
+1477422,64401,The Meatball Shop,Italian,16.54,Weekday,5,32,24
+1476822,284256,Empanada Mama (closed),Mexican,12.13,Weekend,5,21,22
+1477058,65779,The Kati Roll Company,Indian,24.35,Weekday,Not given,33,29
+1478133,114085,Blue Ribbon Sushi Bar & Grill,Japanese,19.4,Weekend,Not given,28,20
+1476876,325285,RedFarm Broadway,Chinese,5.48,Weekend,3,27,18
+1477735,302769,Blue Ribbon Fried Chicken,American,29.05,Weekend,5,29,20
+1476585,141918,S'MAC,American,12.37,Weekend,4,30,28
+1477388,396432,Blue Ribbon Sushi Izakaya,Japanese,9.7,Weekend,Not given,25,15
+1477768,279895,Shake Shack,American,9.6,Weekday,4,35,28
+1477222,348096,The Meatball Shop,Italian,11.64,Weekend,4,23,24
+1477261,76938,Sushi of Gari,Japanese,31.43,Weekend,Not given,21,27
+1477423,80466,J. G. Melon,American,14.6,Weekend,5,32,24
+1477134,361654,The Meatball Shop,Italian,13.53,Weekend,5,22,24
+1477590,145952,Blue Ribbon Sushi,Japanese,29.15,Weekday,Not given,26,24
+1477365,61181,Shake Shack,American,14.07,Weekend,5,33,25
+1477517,77793,The Meatball Shop,Italian,29.15,Weekend,5,23,30
+1477180,154339,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.15,Weekday,Not given,21,24
+1477536,105164,Piccolo Angolo,Italian,15.91,Weekend,4,26,26
+1476747,115213,Junoon,Indian,9.22,Weekday,Not given,30,32
+1477567,175290,The Meatball Shop,Italian,9.17,Weekend,Not given,30,30
+1477137,157578,P.J. Clarke's,American,14.07,Weekday,5,33,26
+1477936,133202,Blue Ribbon Sushi,Japanese,9.17,Weekend,Not given,27,29
+1478112,232542,The Meatball Shop,Italian,22.36,Weekend,4,35,21
+1478185,97079,Benihana,Japanese,5.77,Weekend,Not given,22,22
+1477288,47879,El Parador Cafe,Mexican,13.19,Weekday,5,22,28
+1477822,61588,Blue Ribbon Sushi,Japanese,5.82,Weekend,Not given,34,27
+1477776,115213,Tamarind TriBeCa,Indian,29.39,Weekend,5,30,25
+1478152,304708,Parm,Italian,5.92,Weekend,3,21,25
+1477378,115610,Tamarind TriBeCa,Indian,12.13,Weekend,Not given,35,20
+1477114,47594,Dos Caminos,Mexican,12.18,Weekday,5,24,30
+1478167,88078,RedFarm Hudson,Chinese,12.23,Weekday,Not given,20,25
+1478073,121686,TAO,Japanese,24.25,Weekend,4,22,21
+1477655,96666,Empanada Mama (closed),Mexican,19.35,Weekend,5,29,22
+1477594,47440,Bareburger,American,12.18,Weekday,3,25,24
+1478175,349676,Sarabeth's,American,29.3,Weekend,5,23,17
+1478066,156218,RedFarm Hudson,Chinese,15.23,Weekend,5,31,16
+1478284,139885,Blue Ribbon Fried Chicken,American,8.2,Weekend,5,34,17
+1477578,385150,Blue Ribbon Sushi,Japanese,12.18,Weekend,4,27,16
+1478312,398952,Han Dynasty,Chinese,13.78,Weekend,5,27,20
+1477737,104548,Tarallucci e Vino Restaurant,Italian,11.59,Weekend,Not given,21,15
+1478359,361616,Blue Ribbon Brooklyn,American,24.2,Weekday,3,22,32
+1477801,268365,Zero Otto Nove,Italian,12.18,Weekday,4,29,25
+1477931,403833,Room Service,Thai,6.69,Weekday,Not given,25,32
+1476715,365244,Bareburger,American,16.3,Weekday,Not given,20,28
+1476889,149984,Sushi of Gari 46,Japanese,12.18,Weekday,Not given,20,29
+1478160,52832,Donburi-ya,Japanese,15.86,Weekday,5,28,28
+1477189,54630,V-Nam Cafe,Vietnamese,22.26,Weekend,5,33,26
+1478039,292343,Amy Ruth's,Southern,12.23,Weekday,Not given,32,33
+1478030,131093,Bareburger,American,13.77,Weekend,3,33,29
+1476741,318095,Blue Ribbon Sushi Izakaya,Japanese,6.79,Weekend,5,32,30
+1476717,151191,Pongsri Thai,Thai,20.18,Weekday,Not given,23,25
+1477052,35993,Mira Sushi,Japanese,11.79,Weekend,Not given,32,26
+1477096,158578,Xi'an Famous Foods,Chinese,14.12,Weekday,3,24,31
+1477403,87603,The Meatball Shop,American,6.69,Weekend,4,27,27
+1478349,229946,Balthazar Boulangerie,French,21.39,Weekend,Not given,35,29
+1477427,291891,The Kati Roll Company,Indian,17.03,Weekend,5,24,22
+1478252,94167,Dos Caminos,Mexican,22.36,Weekend,Not given,30,26
+1477503,99621,Westville Hudson,American,24.3,Weekend,Not given,32,15
+1478353,369809,Momoya,Japanese,12.23,Weekday,3,32,24
+1477892,196320,Parm,Italian,25.17,Weekday,4,33,32
+1477647,359228,Yama Japanese Restaurant,Japanese,9.27,Weekend,Not given,23,29
+1477719,367051,RedFarm Hudson,Chinese,15.04,Weekend,3,35,25
+1477550,97324,Shake Shack,American,29.05,Weekday,4,27,29
+1478137,209418,Izakaya Ten,Japanese,13.05,Weekend,3,34,23
+1477625,106860,Sushi of Gari Tribeca,Japanese,17.03,Weekday,Not given,35,30
+1478264,70564,Jack's Wife Freda,Mediterranean,16.15,Weekday,5,22,24
+1476879,259341,Blue Ribbon Fried Chicken,American,8.39,Weekend,4,26,17
+1476612,115610,Delicatessen,American,12.18,Weekend,Not given,24,17
+1477997,186473,Blue Ribbon Sushi Izakaya,Japanese,12.23,Weekend,3,34,25
+1476734,148327,Shake Shack,American,33.03,Weekday,Not given,31,28
+1477854,58025,Tamarind TriBeCa,Indian,11.64,Weekend,Not given,33,23
+1478035,178846,Blue Ribbon Fried Chicken,American,10.14,Weekend,4,21,17
+1477796,40745,Parm,Italian,15.91,Weekday,Not given,32,28
+1478210,320493,Vanessa's Dumplings,Chinese,29.2,Weekday,Not given,27,30
+1477994,127130,Momoya,Japanese,9.55,Weekend,5,30,26
+1478329,116992,Tres Carnes,Mexican,33.32,Weekday,4,21,33
+1476815,39029,Prosperity Dumpling,Chinese,13.63,Weekend,5,25,24
+1478078,54608,Tamarind TriBeCa,Indian,22.26,Weekend,5,34,15
+1477168,352130,TAO,Japanese,12.08,Weekend,Not given,24,30
+1477280,377274,RedFarm Broadway,Chinese,14.07,Weekend,3,34,17
+1476761,64153,Blue Ribbon Fried Chicken,American,24.25,Weekday,5,33,30
+1478233,264707,TAO,Japanese,12.08,Weekday,3,24,26
+1476705,260680,Cafe Mogador,Middle Eastern,5.77,Weekend,3,20,16
+1477906,66012,Sushi of Gari Tribeca,Japanese,19.02,Weekend,5,27,29
+1477084,283051,Shake Shack,American,6.69,Weekday,5,26,32
+1476952,229946,Balthazar Boulangerie,French,15.52,Weekend,Not given,21,29
+1477872,300670,Shake Shack,American,13.39,Weekend,Not given,30,22
+1478373,40808,V-Nam Cafe,Vietnamese,6.01,Weekday,3,20,31
+1477743,104130,Blue Ribbon Sushi,Japanese,6.64,Weekend,Not given,23,15
+1477772,91958,TAO,Japanese,12.18,Weekday,Not given,26,33
+1477302,52832,Don's Bogam BBQ & Wine Bar,Korean,12.23,Weekend,Not given,32,20
+1476862,58533,The Meatball Shop,Italian,29.2,Weekend,Not given,31,24
+1478072,82041,Osteria Morini,Italian,12.95,Weekend,5,26,28
+1477963,115519,Blue Ribbon Fried Chicken,American,12.23,Weekend,5,27,27
+1476728,250494,Bubby's ,American,24.25,Weekend,Not given,34,28
+1477480,75722,Yama 49,Japanese,22.31,Weekend,5,29,17
+1477186,291891,The Kati Roll Company,Indian,11.64,Weekend,4,34,18
+1477310,38612,Vanessa's Dumplings,Chinese,6.7,Weekend,5,20,17
+1476907,87006,Nobu Next Door,Japanese,5.67,Weekday,5,33,25
+1476917,58675,Big Daddy's,American,14.84,Weekend,5,32,22
+1476804,113477,Schnipper's Quality Kitchen,American,12.18,Weekend,Not given,31,22
+1478022,94152,Empanada Mama (closed),Mexican,11.88,Weekend,5,23,27
+1476577,100778,The Meatball Shop,Italian,12.18,Weekend,Not given,25,28
+1477353,106324,The Meatball Shop,Italian,16.2,Weekend,5,21,26
+1476824,259341,Momoya,Japanese,19.4,Weekend,4,27,16
+1477304,88406,The Meatball Shop,Italian,24.2,Weekday,4,28,30
+1478158,232035,Balade,Middle Eastern,9.22,Weekday,5,25,24
+1477546,67162,Shake Shack,American,14.07,Weekday,4,24,28
+1477833,27609,Shake Shack,American,15.57,Weekday,Not given,28,30
+1476718,35643,Vanessa's Dumpling House,Chinese,14.84,Weekend,5,31,24
+1477347,66636,Shake Shack,American,20.52,Weekend,Not given,31,26
+1476775,66636,Shake Shack,American,29.1,Weekday,5,29,31
+1478303,72639,Sushi of Gari,Japanese,10.72,Weekday,Not given,30,26
+1477506,283831,Blue Ribbon Sushi Bar & Grill,Japanese,13.05,Weekday,5,22,28
+1477615,136876,Rubirosa,Italian,14.07,Weekend,5,35,16
+1476801,104130,Ravagh Persian Grill,Middle Eastern,14.07,Weekday,5,34,33
+1477620,148320,Tamarind TriBeCa,Indian,16.49,Weekday,Not given,31,28
+1476892,177078,Lantern Thai Kitchen,Thai,21.93,Weekday,Not given,22,25
+1477307,141732,Cho Dang Gol,Korean,5.77,Weekend,5,21,17
+1477652,99393,Parm,Italian,10.14,Weekday,Not given,24,28
+1477675,76907,Han Dynasty,Chinese,7.23,Weekend,5,21,18
+1478014,54630,Tortaria,Mexican,8.92,Weekend,Not given,33,16
+1476703,405334,TAO,Japanese,25.22,Weekend,Not given,26,16
+1478121,62980,Westville Hudson,American,8.34,Weekday,Not given,22,26
+1476780,319773,Vezzo Thin Crust Pizza,Italian,12.13,Weekend,5,34,26
+1477024,68154,Nobu Next Door,Japanese,12.18,Weekend,5,32,23
+1476759,268958,Sushi of Gari 46,Japanese,12.22,Weekend,4,24,20
+1478332,146456,Five Guys Burgers and Fries,American,12.18,Weekend,Not given,22,26
+1477315,176622,Cafe Mogador,Middle Eastern,15.91,Weekend,5,32,15
+1477898,68248,J. G. Melon,American,10.43,Weekday,5,35,29
+1478007,113238,Boqueria,Spanish,24.25,Weekend,Not given,28,18
+1478037,97346,da Umberto,Italian,7.61,Weekend,Not given,23,26
+1478150,97806,Shake Shack,American,25.22,Weekend,4,35,27
+1477724,80531,RedFarm Hudson,Chinese,12.18,Weekend,Not given,24,27
+1477939,41040,The Meatball Shop,Italian,15.91,Weekend,Not given,26,20
+1477295,140530,Sushi of Gari 46,Japanese,12.13,Weekend,Not given,25,29
+1477241,42828,Jack's Wife Freda,Mediterranean,14.12,Weekday,5,25,25
+1477950,301032,Blue Ribbon Fried Chicken,American,16.44,Weekend,4,24,16
+1478439,48444,TAO,Japanese,8.54,Weekend,4,26,23
+1477551,277898,Blue Ribbon Fried Chicken,American,29.44,Weekend,4,33,27
+1477409,146588,Shake Shack,American,9.07,Weekday,3,35,26
+1476711,106968,Blue Ribbon Fried Chicken,American,8.78,Weekend,Not given,22,26
+1477217,139639,Sushi of Gari 46,Japanese,29.15,Weekday,Not given,32,32
+1477942,49793,Yama Japanese Restaurant,Japanese,22.36,Weekend,5,30,16
+1478281,58898,Blue Ribbon Sushi,Japanese,16.93,Weekend,4,30,25
+1476652,232035,ilili Restaurant,Middle Eastern,8.97,Weekend,Not given,24,19
+1478015,364714,Nobu Next Door,Japanese,8.97,Weekday,Not given,22,31
+1476964,81405,RedFarm Broadway,Chinese,24.25,Weekend,5,29,22
+1478311,326505,Blue Ribbon Fried Chicken,American,21.29,Weekend,5,28,29
+1477120,285774,Blue Ribbon Sushi,Japanese,6.79,Weekday,5,21,29
+1477971,210544,DespaÌ±a,Spanish,16.98,Weekend,Not given,20,22
+1477041,52832,Junoon,Indian,25.17,Weekday,Not given,23,24
+1476664,164016,Blue Ribbon Fried Chicken,American,24.3,Weekday,5,20,27
+1478173,91005,Han Dynasty,Chinese,24.25,Weekend,5,33,26
+1476878,378027,RedFarm Broadway,Chinese,8.49,Weekend,Not given,24,16
+1478406,129122,Sarabeth's East,American,12.13,Weekend,Not given,34,30
+1477328,342126,Parm,Italian,13.68,Weekend,4,33,21
+1478261,106940,Parm,Italian,9.07,Weekday,4,23,30
+1478316,118975,Shake Shack,American,12.23,Weekend,Not given,20,27
+1476830,361509,Cafeteria,American,17.03,Weekend,Not given,34,20
+1477006,119465,Cafe Mogador,Middle Eastern,25.27,Weekday,5,30,25
+1478294,390459,Shake Shack,American,12.18,Weekend,Not given,35,29
+1476855,317794,5 Napkin Burger,American,8.39,Weekday,Not given,35,24
+1476716,37982,Saravanaa Bhavan,Indian,15.52,Weekday,5,33,26
+1478429,355090,Shake Shack,American,22.85,Weekend,5,24,23
+1476731,94480,TAO,Japanese,29.1,Weekend,Not given,28,23
+1477704,100999,Balthazar Boulangerie,French,12.13,Weekend,Not given,22,27
+1477681,225912,12 Chairs,Middle Eastern,16.3,Weekday,4,27,26
+1476590,342107,The Kati Roll Company,Indian,16.83,Weekend,4,26,20
+1478095,183520,Blue Ribbon Sushi,Japanese,12.18,Weekend,4,30,17
+1477023,99288,Boqueria,Spanish,12.13,Weekday,Not given,33,28
+1477828,360844,Tamarind TriBeCa,Indian,8.59,Weekday,5,32,31
+1476656,124596,RedFarm Hudson,Chinese,29.1,Weekday,Not given,27,26
+1477251,81110,Hill Country Fried Chicken,Southern,16.93,Weekend,5,33,21
+1477301,232035,Blue Ribbon Fried Chicken,American,12.18,Weekend,4,22,29
+1477101,81828,The Meatball Shop,American,14.55,Weekend,5,21,30
+1477707,133330,Blue Ribbon Fried Chicken,American,25.27,Weekend,5,29,28
+1477289,72322,Cafe Mogador,Middle Eastern,12.95,Weekend,3,21,20
+1477733,376499,Lucky Strike,American,29.25,Weekend,4,21,21
+1477834,22405,The Meatball Shop,Italian,20.18,Weekend,4,32,26
+1477434,77857,Shake Shack,American,29.15,Weekend,5,20,21
+1477573,58898,RedFarm Broadway,Chinese,21.39,Weekend,5,23,24
+1478369,243341,Sushi Samba,Japanese,22.36,Weekend,5,31,30
+1477988,82041,Parm,Italian,16.44,Weekend,4,23,22
+1478355,68103,The Meatball Shop,Italian,21.83,Weekend,4,30,20
+1478051,139639,Sushi of Gari 46,Japanese,24.3,Weekend,3,29,23
+1478420,104355,Momoya,Japanese,15.81,Weekend,5,25,15
+1477223,303548,J. G. Melon,American,22.26,Weekend,5,22,25
+1477076,68834,Sushi of Gari 46,Japanese,31.43,Weekend,5,29,30
+1476946,103526,Burger Joint,American,9.02,Weekday,5,24,29
+1477501,151191,RedFarm Hudson,Chinese,12.18,Weekend,5,34,24
+1476943,87472,RedFarm Hudson,Chinese,22.75,Weekend,Not given,31,30
+1477560,371677,Blue Ribbon Fried Chicken,American,6.79,Weekday,Not given,33,28
+1476982,47440,Bareburger,American,8.73,Weekend,5,21,19
+1477095,196355,Shake Shack,American,13.1,Weekday,Not given,20,28
+1477914,366975,Blue Ribbon Sushi Bar & Grill,Japanese,16.39,Weekend,Not given,31,18
+1478179,52832,Han Dynasty,Chinese,12.23,Weekend,3,33,27
+1477518,133202,Sushi Samba,Japanese,29.05,Weekend,5,31,16
+1478330,109419,The Meatball Shop,Italian,11.69,Weekend,Not given,30,21
+1477611,130820,Nobu Next Door,Japanese,15.13,Weekday,Not given,21,30
+1478343,231042,Momoya,Japanese,8.54,Weekday,4,28,29
+1477475,65009,Blue Ribbon Fried Chicken,American,32.93,Weekend,5,24,23
+1477239,94524,The Meatball Shop,Italian,22.36,Weekend,4,28,18
+1477614,255697,Sushi Samba,Japanese,14.02,Weekend,Not given,30,29
+1477090,54081,Osteria Morini,Italian,9.22,Weekday,4,29,33
+1477440,127934,Blue Ribbon Fried Chicken,American,12.52,Weekday,4,24,31
+1477600,347263,Hangawi,Korean,6.74,Weekend,Not given,21,22
+1477534,155124,The Meatball Shop,Italian,9.22,Weekend,Not given,30,19
+1476813,261665,Han Dynasty,Chinese,7.71,Weekend,5,22,18
+1477946,81152,Hill Country Fried Chicken,Southern,14.12,Weekend,5,25,15
+1477643,139827,RedFarm Hudson,Chinese,5.77,Weekend,4,33,28
+1478242,372276,Pinto Nouveau Thai Bistro,Thai,24.2,Weekend,5,29,15
+1477572,150865,Vanessa's Dumpling House,Chinese,15.52,Weekend,5,20,23
+1478120,47440,Blue Ribbon Fried Chicken,American,8.1,Weekend,Not given,33,22
+1476581,322162,The Meatball Shop,Italian,6.74,Weekend,5,29,23
+1477619,75251,Blue Ribbon Fried Chicken,American,24.25,Weekend,Not given,27,21
+1478192,54365,Shake Shack,American,16.25,Weekend,5,27,23
+1476981,138586,Shake Shack,American,5.82,Weekend,Not given,22,28
+1477166,402215,RedFarm Hudson,Chinese,21.29,Weekend,4,32,25
+1476877,53289,The Loop,Japanese,4.66,Weekend,Not given,34,25
+1478426,124085,Blue Ribbon Sushi Bar & Grill,Japanese,14.12,Weekend,3,21,24
+1477921,97079,Benihana,Japanese,29.29,Weekend,5,20,18
+1476724,130956,Blue Ribbon Sushi,Japanese,21.83,Weekday,3,21,26
+1477406,154022,Blue Ribbon Sushi Bar & Grill,Japanese,16.74,Weekend,4,22,20
+1476582,60703,Cafe Habana,Mexican,6.79,Weekday,Not given,33,25
+1478245,52832,Junoon,Indian,29.49,Weekend,5,23,17
+1477192,374286,Vanessa's Dumpling House,Chinese,5.92,Weekday,Not given,30,32
+1477092,144851,Benihana,Japanese,16.11,Weekend,Not given,25,29
+1476735,369272,Blue Ribbon Sushi Bar & Grill,Japanese,11.69,Weekday,5,21,28
+1476595,385150,Blue Ribbon Sushi,Japanese,14.02,Weekend,Not given,35,16
+1478289,318874,The Kati Roll Company,Indian,31.33,Weekend,5,28,25
+1477071,78939,Nobu Next Door,Japanese,29.05,Weekend,5,33,29
+1476827,148649,Blue Ribbon Sushi,Japanese,6.74,Weekend,Not given,31,27
+1476645,140477,Serafina Fabulous Pizza,Italian,13.68,Weekend,5,20,20
+1476928,58205,The Meatball Shop,Italian,24.3,Weekend,Not given,33,21
+1477809,148499,Posto,Italian,24.25,Weekend,Not given,23,25
+1477259,145952,Blue Ribbon Sushi,Japanese,29.15,Weekend,4,31,19
+1477245,375585,TAO,Japanese,24.25,Weekend,Not given,31,27
+1477345,339144,The Meatball Shop,Italian,5.05,Weekend,Not given,29,19
+1477729,355713,RedFarm Broadway,Chinese,14.26,Weekend,Not given,28,24
+1477589,214028,Boqueria,Spanish,29.05,Weekend,4,24,24
+1476908,365237,Five Guys Burgers and Fries,American,22.75,Weekend,5,30,20
+1477268,375585,TAO,Japanese,6.69,Weekend,5,22,28
+1476568,348787,Otto Enoteca Pizzeria,Italian,19.4,Weekday,4,32,28
+1477416,123977,Vezzo Thin Crust Pizza,Italian,22.26,Weekday,Not given,22,32
+1478260,41991,Blue Ribbon Sushi Bar & Grill,Japanese,12.37,Weekend,Not given,21,16
+1478090,62359,Blue Ribbon Sushi Izakaya,Japanese,16.01,Weekday,5,23,27
+1478236,121905,Chipotle Mexican Grill $1.99 Delivery,Mexican,22.26,Weekend,4,21,21
+1477452,107240,Shake Shack,American,8.34,Weekend,5,21,30
+1477082,107909,ilili Restaurant,Middle Eastern,24.2,Weekday,4,34,24
+1476755,331143,Waverly Diner,American,11.59,Weekend,Not given,25,22
+1477705,60397,Jack's Wife Freda,Mediterranean,12.18,Weekend,3,33,23
+1476603,48677,Shake Shack,American,12.95,Weekend,Not given,32,19
+1477525,52360,TAO,Japanese,24.3,Weekend,Not given,24,22
+1478116,378482,Five Guys Burgers and Fries,American,5.72,Weekday,Not given,22,24
+1477774,354719,The Meatball Shop,Italian,29.15,Weekend,5,34,20
+1476812,83287,Shake Shack,American,9.02,Weekday,4,23,27
+1478241,60052,RedFarm Broadway,Chinese,24.2,Weekend,5,31,19
+1477723,368663,Shake Shack,American,12.18,Weekend,4,23,28
+1476959,65007,Serafina Fabulous Pizza,Italian,19.5,Weekday,5,22,33
+1476709,105837,Nobu Next Door,Japanese,11.11,Weekend,Not given,25,30
+1478213,122092,Han Dynasty,Chinese,22.31,Weekend,3,23,29
+1477632,76942,Sarabeth's Restaurant,American,29.15,Weekday,Not given,20,26
+1477817,335897,Sushi of Gari 46,Japanese,12.18,Weekday,4,24,27
+1477745,59017,TAO,Japanese,12.66,Weekday,Not given,29,29
+1478096,146211,Yama Japanese Restaurant,Japanese,12.08,Weekday,Not given,25,33
+1477162,42755,Blue Ribbon Fried Chicken,American,15.72,Weekend,4,25,19
+1476594,94480,TAO,Japanese,12.17,Weekend,5,22,16
+1477012,325210,The Meatball Shop,American,12.32,Weekend,Not given,31,19
+1477312,269793,Dirty Bird To Go (archived),American,8.54,Weekend,Not given,32,30
+1477272,143984,The Smile,American,12.27,Weekday,Not given,32,24
+1477878,62730,Westville Hudson,American,21.88,Weekend,5,20,15
+1477148,385406,The Meatball Shop,Italian,11.59,Weekday,Not given,21,30
+1478088,77540,Nobu Next Door,Japanese,9.7,Weekend,5,30,29
+1477846,52574,Blue Ribbon Sushi,Japanese,24.25,Weekday,5,30,26
+1478208,371590,The Meatball Shop,Italian,29.15,Weekend,5,29,27
+1477519,140477,Momoya,Japanese,31.43,Weekend,Not given,24,17
+1477990,59673,Rubirosa,Italian,12.95,Weekend,4,30,25
+1478415,105665,Blue Ribbon Sushi Bar & Grill,Japanese,12.56,Weekday,Not given,32,27
+1478016,154471,Yama Japanese Restaurant,Japanese,9.65,Weekend,5,24,16
+1477303,92768,Sushi of Gari 46,Japanese,19.35,Weekday,Not given,28,24
+1477286,110091,The Meatball Shop,Italian,12.18,Weekend,Not given,27,17
+1477886,241310,Blue Ribbon Sushi,Japanese,32.93,Weekday,3,34,31
+1477125,130820,Nobu Next Door,Japanese,15.86,Weekend,5,29,23
+1477565,65009,Blue Ribbon Fried Chicken,American,12.56,Weekday,5,27,27
+1477792,270525,The Smile,American,8.39,Weekday,Not given,20,31
+1477571,121476,Blue Ribbon Fried Chicken,American,16.2,Weekend,Not given,32,23
+1476683,263075,Burger Joint,American,12.23,Weekday,Not given,21,27
+1477720,215219,Empanada Mama (closed),Mexican,19.98,Weekday,4,23,32
+1477088,129486,Mamoun's Falafel,Mediterranean,12.61,Weekend,4,21,17
+1476944,105614,Terakawa Ramen,Japanese,8.54,Weekday,3,27,25
+1478250,369272,Blue Ribbon Sushi,Japanese,12.22,Weekend,Not given,34,28
+1478091,369272,Blue Ribbon Sushi Bar & Grill,Japanese,15.81,Weekday,Not given,21,29
+1478395,283052,Han Dynasty,Chinese,13.0,Weekend,4,32,22
+1477597,49010,Shake Shack,American,24.25,Weekend,5,34,24
+1477775,142461,Shake Shack,American,29.25,Weekend,4,25,19
+1477460,134058,The Meatball Shop,Italian,12.08,Weekday,5,33,25
+1477396,140998,Boqueria,Spanish,13.0,Weekend,5,26,24
+1477759,68551,Blue Ribbon Sushi Bar & Grill,Japanese,12.13,Weekend,Not given,21,29
+1477331,384390,El Parador Cafe,Mexican,24.2,Weekend,Not given,28,18
+1478278,42755,Blue Ribbon Fried Chicken,American,13.0,Weekend,Not given,29,30
+1478119,276192,Sushi of Gari Tribeca,Japanese,10.86,Weekday,4,28,28
+1476900,240014,Sarabeth's,American,32.93,Weekday,4,33,33
+1477049,175101,TAO,Japanese,9.65,Weekend,4,25,18
+1476854,47440,Blue Ribbon Fried Chicken,American,6.45,Weekend,4,30,24
+1477394,105754,Momoya,Japanese,14.02,Weekday,4,24,30
+1477682,35432,TAO,Japanese,14.99,Weekend,Not given,24,21
+1478227,367591,Taro Sushi,Japanese,16.05,Weekday,5,35,32
+1476956,55220,Saravanaa Bhavan,Indian,12.13,Weekday,Not given,32,26
+1477786,145389,RedFarm Hudson,Chinese,4.75,Weekend,3,23,25
+1476569,55334,Sushi of Gari Tribeca,Japanese,9.85,Weekend,Not given,26,17
+1477494,300003,Crema Restaurante,Mexican,15.86,Weekend,Not given,31,30
+1476666,205241,Shake Shack,American,6.07,Weekday,4,23,27
+1477715,217363,Jack's Wife Freda,Mediterranean,9.41,Weekend,5,28,15
+1476662,115213,Tamarind TriBeCa,Indian,12.18,Weekend,5,25,20
+1477969,69516,Wa Jeal,Chinese,6.74,Weekend,Not given,32,24
+1477030,240982,Rubirosa,Italian,24.3,Weekday,3,29,31
+1476651,58092,Shake Shack,American,8.0,Weekend,5,27,23
+1477875,154022,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,5,22,18
+1478279,354016,Waverly Diner,American,19.4,Weekend,5,25,23
+1477883,91817,Blue Ribbon Fried Chicken,American,29.39,Weekend,Not given,27,28
+1476802,318451,Blue Ribbon Sushi,Japanese,14.02,Weekend,4,23,18
+1477548,79255,The Meatball Shop,Italian,12.95,Weekday,4,29,24
+1476920,36118,RedFarm Broadway,Chinese,12.13,Weekend,4,20,19
+1477680,353606,P.J. Clarke's,American,15.62,Weekday,5,27,32
+1478194,67937,Shake Shack,American,15.52,Weekend,5,22,17
+1476758,120504,Schnipper's Quality Kitchen,American,14.02,Weekend,5,20,16
+1477360,91907,Sarabeth's Restaurant,American,12.08,Weekend,Not given,28,26
+1477063,317446,The Meatball Shop,Italian,19.4,Weekend,5,28,30
+1476616,348096,Parm,Italian,31.43,Weekday,5,28,25
+1477992,65589,Blue Ribbon Sushi Izakaya,Japanese,19.45,Weekday,5,33,32
+1477608,125123,Le Grainne Cafe,French,15.96,Weekend,4,25,22
+1478285,113817,Blue Ribbon Fried Chicken,American,12.18,Weekend,4,32,22
+1478181,97079,Benihana,Japanese,25.22,Weekday,4,27,27
+1477769,129798,TAO,Japanese,8.05,Weekday,Not given,26,31
+1477116,126730,The Kati Roll Company,Indian,24.2,Weekend,5,26,16
+1477377,198802,DuMont Burger,American,12.56,Weekend,Not given,35,19
+1478155,5693,The Meatball Shop,Italian,8.3,Weekday,Not given,29,32
+1478045,97420,Yama 49,Japanese,31.33,Weekend,5,21,27
+1477835,129518,Blue Ribbon Fried Chicken,American,15.33,Weekday,4,24,29
+1478361,371117,Shake Shack,American,29.1,Weekend,5,26,24
+1478411,361846,RedFarm Broadway,Chinese,6.69,Weekend,Not given,27,24
+1478399,264399,Han Dynasty,Chinese,29.15,Weekday,Not given,20,24
+1478314,338599,Yama Japanese Restaurant,Japanese,12.18,Weekday,Not given,30,25
+1477947,78560,The Meatball Shop,Italian,12.18,Weekend,3,27,20
+1478422,197832,The Meatball Shop,Italian,14.84,Weekend,Not given,20,28
+1476835,264707,TAO,Japanese,9.56,Weekend,5,21,17
+1476691,68775,Sushi of Gari Tribeca,Japanese,24.2,Weekend,Not given,22,21
+1477430,182252,Five Leaves,American,6.26,Weekday,5,31,26
+1477391,60835,RedFarm Hudson,Chinese,16.49,Weekend,3,34,20
+1476773,92806,Shake Shack,American,12.18,Weekend,Not given,29,22
+1478135,276431,The Meatball Shop,Italian,14.02,Weekday,5,20,27
+1477262,43636,Blue Ribbon Fried Chicken,American,12.08,Weekend,4,21,21
+1477668,160957,Han Dynasty,Chinese,22.31,Weekend,5,29,15
+1476858,385350,Blue Ribbon Sushi,Japanese,12.13,Weekend,5,26,17
+1476674,318689,Olive Garden,Italian,16.1,Weekday,Not given,24,29
+1476882,68429,Shake Shack,American,15.76,Weekend,5,24,22
+1477366,275689,Han Dynasty,Chinese,14.12,Weekend,4,35,19
+1477470,350659,Shake Shack,American,24.25,Weekend,4,27,30
+1476931,124838,Hill Country Fried Chicken,Southern,29.15,Weekend,5,33,25
+1477392,203370,Chipotle Mexican Grill $1.99 Delivery,Mexican,15.57,Weekend,4,31,20
+1476614,138462,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.1,Weekday,5,21,29
+1477306,94691,brgr,American,5.72,Weekday,3,24,26
+1477411,143721,Hummus Place,Middle Eastern,9.75,Weekend,5,28,28
+1478153,300208,Xi'an Famous Foods,Chinese,6.02,Weekend,5,33,24
+1478232,77371,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,4,24,15
+1478251,99621,Jack's Wife Freda,Mediterranean,12.47,Weekend,5,34,20
+1478012,114919,Yama Japanese Restaurant,Japanese,12.66,Weekend,Not given,25,26
+1477204,376578,Shake Shack,American,15.57,Weekday,4,34,25
+1477381,316223,The Smile,American,25.22,Weekday,4,25,28
+1478023,243910,Nobu Next Door,Japanese,14.12,Weekend,3,30,19
+1477342,49631,The Meatball Shop,Italian,14.31,Weekend,Not given,23,17
+1477133,175290,Shake Shack,American,12.18,Weekend,Not given,26,25
+1476886,320088,Cafe Mogador,Middle Eastern,13.68,Weekend,4,29,18
+1478274,374826,Waverly Diner,American,22.8,Weekend,4,25,21
+1477586,84087,The Meatball Shop,Italian,8.78,Weekday,5,34,33
+1478102,165695,The Smile,American,13.39,Weekend,Not given,20,16
+1477711,67647,J. G. Melon,American,12.66,Weekend,4,23,20
+1477478,140757,Parm,Italian,12.47,Weekend,Not given,22,24
+1477197,345062,Alidoro,American,12.61,Weekend,Not given,34,22
+1477998,90113,Blue Ribbon Sushi,Japanese,29.1,Weekend,5,20,16
+1477469,96943,Cafe Mogador,Middle Eastern,24.25,Weekend,Not given,26,22
+1478108,87188,Momoya,Japanese,32.93,Weekday,3,28,27
+1476620,54110,Tamarind TriBeCa,Indian,12.23,Weekend,4,21,21
+1477437,304993,Shake Shack,American,31.43,Weekend,3,31,24
+1477706,68258,Jack's Wife Freda,Mediterranean,22.31,Weekend,Not given,23,28
+1477042,209179,RedFarm Broadway,Chinese,6.74,Weekend,Not given,31,27
+1477513,64151,Jack's Wife Freda,Mediterranean,12.18,Weekday,5,23,31
+1477322,355592,CafÌ© China,Chinese,12.13,Weekend,Not given,27,25
+1476875,373353,indikitch,Indian,22.26,Weekend,Not given,35,16
+1476725,42935,Barbounia,Mediterranean,13.97,Weekend,5,29,25
+1477640,105992,RedFarm Broadway,Chinese,24.3,Weekend,5,27,29
+1477456,124085,Blue Ribbon Sushi Bar & Grill,Japanese,15.91,Weekend,Not given,31,16
+1478114,237616,Shake Shack,American,5.68,Weekend,Not given,26,18
+1477283,75115,RedFarm Hudson,Chinese,14.07,Weekday,Not given,20,32
+1477771,232035,ilili Restaurant,Middle Eastern,12.23,Weekday,5,24,32
+1476745,377771,Blue Ribbon Fried Chicken,American,12.61,Weekend,3,30,30
+1477561,183704,The Meatball Shop,Italian,6.74,Weekend,Not given,30,25
+1477811,373152,Blue Ribbon Sushi,Japanese,24.3,Weekend,5,32,28
+1476970,275689,Nobu Next Door,Japanese,33.37,Weekend,4,32,21
+1476859,62667,Sarabeth's Restaurant,American,12.23,Weekend,4,26,24
+1477227,373689,Bareburger,American,6.74,Weekend,Not given,26,29
+1477766,186473,Blue Ribbon Sushi,Japanese,19.45,Weekday,Not given,22,27
+1477843,241719,Blue Ribbon Sushi Izakaya,Japanese,13.1,Weekday,5,24,28
+1478315,235818,Shake Shack,American,12.13,Weekend,Not given,30,19
+1477136,120490,Parm,Italian,21.88,Weekend,4,23,30
+1477636,94909,Parm,Italian,12.13,Weekend,4,29,26
+1478200,164016,Blue Ribbon Fried Chicken,American,12.13,Weekend,5,28,23
+1477662,6987,Hill Country Fried Chicken,Southern,29.78,Weekday,Not given,35,33
+1478364,273690,Grand Sichuan International,Chinese,32.93,Weekend,Not given,32,28
+1478093,268958,Barbounia,Mediterranean,20.18,Weekend,5,29,19
+1477402,377481,Otto Enoteca Pizzeria,Italian,24.25,Weekday,Not given,31,30
+1478053,125262,Barbounia,Mediterranean,5.77,Weekend,Not given,23,23
+1476832,385191,Donburi-ya,Japanese,12.37,Weekend,5,24,17
+1477605,91907,Momoya,Japanese,9.02,Weekend,Not given,21,30
+1476619,78318,RedFarm Hudson,Chinese,12.23,Weekend,4,24,19
+1477142,87151,Rubirosa,Italian,24.2,Weekend,4,23,26
+1476552,334758,Melt Shop,American,12.56,Weekend,4,25,23
+1477591,97806,Shake Shack,American,31.43,Weekend,Not given,30,19
+1477874,41168,Parm,Italian,12.13,Weekend,Not given,25,29
+1478259,68446,Hill Country Fried Chicken,Southern,12.47,Weekend,Not given,29,28
+1476913,145216,Grand Sichuan International,Chinese,7.66,Weekday,5,33,31
+1477151,97991,Blue Ribbon Sushi Bar & Grill,Japanese,22.36,Weekend,4,25,18
+1477290,361509,Shake Shack,American,19.35,Weekday,Not given,35,33
+1477414,66222,Shake Shack,American,16.2,Weekend,5,33,25
+1476579,85633,The Meatball Shop,Italian,24.2,Weekend,5,24,24
+1478317,128216,Shake Shack,American,19.74,Weekday,4,35,32
+1477512,44759,Sushi of Gari Tribeca,Japanese,9.27,Weekend,Not given,20,17
+1476638,46696,Blue Ribbon Sushi Bar & Grill,Japanese,11.88,Weekend,5,25,17
+1477785,77306,Xi'an Famous Foods,Chinese,24.3,Weekend,4,32,29
+1476957,54630,V-Nam Cafe,Vietnamese,12.08,Weekend,Not given,31,19
+1477363,51675,Blue Ribbon Sushi,Japanese,19.4,Weekday,Not given,24,24
+1477072,113507,Parm,Italian,29.39,Weekday,Not given,26,30
+1477944,70564,Rubirosa,Italian,14.12,Weekday,3,26,27
+1477465,361220,Carmine's,Italian,21.93,Weekend,5,20,28
+1477500,152786,Cafe Habana,Mexican,14.07,Weekend,4,26,21
+1477757,60688,Shake Shack,American,14.12,Weekend,Not given,29,30
+1476648,169478,RedFarm Broadway,Chinese,19.35,Weekend,Not given,24,28
+1476574,376993,Emporio,Italian,31.43,Weekend,Not given,25,29
+1477554,72726,Shake Shack,American,11.69,Weekend,Not given,31,28
+1476798,110858,Burger Joint,American,14.16,Weekend,4,28,28
+1478071,70315,Five Guys Burgers and Fries,American,14.12,Weekend,4,28,25
+1477191,93797,ilili Restaurant,Middle Eastern,25.22,Weekday,5,25,33
+1477812,93505,Rubirosa,Italian,24.2,Weekend,5,31,15
+1477399,378482,Shake Shack,American,29.49,Weekend,Not given,34,24
+1477001,318451,Blue Ribbon Sushi,Japanese,29.25,Weekend,Not given,22,27
+1477426,135769,Blue Ribbon Sushi,Japanese,19.35,Weekend,5,26,23
+1477599,60270,Market Table,American,6.79,Weekend,Not given,21,17
+1478148,261371,Shake Shack,American,22.31,Weekend,Not given,35,28
+1477933,284256,Empanada Mama (closed),Mexican,12.37,Weekend,Not given,29,25
+1477588,286386,5 Napkin Burger,American,29.05,Weekend,3,26,21
+1477747,183520,Blue Ribbon Sushi,Japanese,9.17,Weekend,3,25,28
+1477692,313340,Sushi of Gari 46,Japanese,14.6,Weekday,3,24,24
+1476649,38116,Ravagh Persian Grill,Middle Eastern,16.93,Weekend,Not given,33,21
+1476904,60845,Blue Ribbon Sushi,Japanese,25.27,Weekend,3,20,20
+1478168,78879,Blue Ribbon Fried Chicken,American,19.4,Weekend,4,33,21
+1477996,82041,Shake Shack,American,8.1,Weekend,5,26,27
+1478389,68775,Sushi of Gari Tribeca,Japanese,12.13,Weekend,Not given,25,30
+1477728,107909,Cafeteria,American,16.44,Weekend,Not given,33,22
+1478169,80460,Rubirosa,Italian,21.83,Weekend,3,30,27
+1477057,390490,Blue Ribbon Brooklyn,American,22.85,Weekend,3,23,19
+1477009,396815,Blue Ribbon Fried Chicken,American,5.73,Weekend,Not given,34,16
+1476999,63417,Pepe Rosso To Go,Italian,24.2,Weekend,3,27,19
+1477702,128600,Blue Ribbon Fried Chicken,American,31.29,Weekday,Not given,22,33
+1478069,130521,Lucky's Famous Burgers,American,12.13,Weekday,5,21,30
+1477972,97806,Shake Shack,American,12.61,Weekend,4,26,25
+1478191,390232,Friend of a Farmer,American,9.7,Weekend,Not given,35,22
+1477978,259341,Joe's Shanghai _Àü£¾÷´,Chinese,15.81,Weekend,5,20,26
+1477438,94132,Parm,Italian,31.33,Weekend,Not given,24,16
+1477220,41249,Kambi Ramen House,Japanese,32.93,Weekend,5,35,19
+1477194,62540,Blue Ribbon Sushi,Japanese,5.92,Weekday,Not given,27,31
+1478368,64153,Burger Joint,American,12.13,Weekday,5,31,33
+1476690,124875,Vanessa's Dumplings,Chinese,24.2,Weekend,4,20,18
+1478442,378035,Five Guys Burgers and Fries,American,29.73,Weekend,5,21,25
+1478097,252342,Westville Hudson,American,12.18,Weekend,3,20,25
+1476743,183520,Blue Ribbon Sushi,Japanese,6.69,Weekend,Not given,35,26
+1478064,221430,Han Dynasty,Chinese,14.75,Weekend,Not given,30,16
+1478123,149268,Han Dynasty,Chinese,16.2,Weekend,Not given,29,18
+1477507,146588,Shake Shack,American,19.4,Weekend,5,33,27
+1476826,53543,CafÌ© China,Chinese,24.3,Weekend,Not given,20,23
+1478048,101202,Burger Joint,American,12.18,Weekend,4,35,15
+1477596,334596,Chipotle Mexican Grill $1.99 Delivery,Mexican,19.35,Weekend,Not given,25,22
+1477730,50616,Parm,Italian,13.05,Weekend,Not given,28,27
+1477316,164776,TAO,Japanese,15.67,Weekend,5,20,22
+1477436,88853,RedFarm Hudson,Chinese,29.29,Weekend,4,27,21
+1477980,385150,Blue Ribbon Sushi,Japanese,17.85,Weekend,Not given,28,18
+1477000,328731,Blue Ribbon Fried Chicken,American,29.59,Weekend,5,23,25
+1477877,360844,RedFarm Broadway,Chinese,19.35,Weekend,5,33,18
+1477644,82041,Osteria Morini,Italian,5.77,Weekend,3,24,19
+1477856,143984,The Smile,American,25.17,Weekend,3,31,15
+1476803,73873,Han Dynasty,Chinese,14.02,Weekend,Not given,24,15
+1476760,180776,Empanada Mama (closed),Mexican,22.75,Weekend,Not given,29,18
+1476873,237616,Shake Shack,American,5.82,Weekend,Not given,26,30
+1477563,385426,Shake Shack,American,17.03,Weekday,5,35,32
+1476937,142045,Shake Shack,American,22.36,Weekday,Not given,33,25
+1477453,83287,Shake Shack,American,9.41,Weekend,5,22,20
+1477299,60039,ilili Restaurant,Middle Eastern,31.33,Weekday,4,29,27
+1477690,370096,Melt Shop,American,21.93,Weekend,5,30,18
+1478309,127130,Momoya,Japanese,16.05,Weekday,4,34,33
+1476762,367111,Blue Ribbon Sushi Bar & Grill,Japanese,16.54,Weekend,Not given,27,17
+1478221,47280,Rubirosa,Italian,12.56,Weekend,4,31,17
+1478290,263199,Sushi of Gari 46,Japanese,31.43,Weekend,4,35,23
+1478291,385134,RedFarm Broadway,Chinese,31.87,Weekend,5,27,18
+1476570,148459,The Kati Roll Company,Indian,5.87,Weekday,Not given,26,30
+1477225,140530,Sushi of Gari 46,Japanese,25.22,Weekend,Not given,32,28
+1478377,399584,The Meatball Shop,Italian,6.4,Weekend,Not given,23,20
+1477641,128224,Blue Ribbon Sushi,Japanese,24.2,Weekend,4,29,18
+1476663,40010,Parm,Italian,19.35,Weekend,4,35,19
+1477673,132906,Sushi of Gari 46,Japanese,22.46,Weekday,Not given,21,29
+1477610,35643,Vanessa's Dumpling House,Chinese,16.49,Weekend,5,26,25
+1477667,106478,Balthazar Boulangerie,French,12.13,Weekend,5,25,24
+1476655,91817,Blue Ribbon Fried Chicken,American,29.15,Weekend,4,31,17
+1478441,228541,RedFarm Hudson,Chinese,29.1,Weekend,Not given,27,28
+1477022,61588,Blue Ribbon Sushi,Japanese,12.08,Weekend,4,33,22
+1478140,62730,Westville Hudson,American,29.1,Weekend,Not given,20,24
+1478172,125123,Sushi Samba,Japanese,12.95,Weekend,Not given,21,21
+1476631,57263,Nobu Next Door,Japanese,9.22,Weekend,Not given,29,23
+1476584,363561,Shake Shack,American,12.37,Weekend,3,28,28
+1476563,114085,Blue Ribbon Sushi Bar & Grill,Japanese,12.18,Weekend,Not given,24,18
+1478325,399373,Shake Shack,American,29.1,Weekday,4,29,24
+1477489,14869,Tres Carnes,Mexican,9.17,Weekend,4,25,30
+1476795,103970,Shake Shack,American,16.2,Weekend,Not given,20,21
+1477629,198936,Five Leaves,American,12.13,Weekend,Not given,23,15
+1477386,221394,The Meatball Shop,Italian,8.83,Weekday,Not given,31,25
+1476901,391860,Lucky's Famous Burgers,American,11.59,Weekend,5,26,23
+1478216,142619,Shake Shack,American,6.07,Weekend,4,28,19
+1477965,384411,Shake Shack,American,19.45,Weekday,3,24,29
+1477383,174796,Xi'an Famous Foods,Chinese,6.64,Weekend,Not given,35,19
+1476609,48677,Shake Shack,American,8.34,Weekend,Not given,23,28
+1476768,72757,Jack's Wife Freda,Mediterranean,8.49,Weekend,Not given,23,18
+1478282,221394,Cafe Habana,Mexican,8.25,Weekend,4,21,29
+1476786,103852,Blue Ribbon Sushi,Japanese,6.74,Weekend,5,22,29
+1477266,85422,Saravanaa Bhavan,Indian,24.25,Weekday,5,29,26
+1477820,41746,Schnipper's Quality Kitchen,American,25.22,Weekend,4,33,18
+1476986,298794,TAO,Japanese,15.86,Weekend,4,22,17
+1477521,113972,RedFarm Hudson,Chinese,12.08,Weekday,Not given,21,26
+1477864,81166,Dos Caminos,Mexican,8.1,Weekday,Not given,23,26
+1478003,129597,Otto Enoteca Pizzeria,Italian,12.13,Weekend,5,33,21
+1478360,375043,Tamarind TriBeCa,Indian,24.2,Weekend,Not given,24,29
+1477099,391746,Blue Ribbon Sushi,Japanese,24.3,Weekend,4,35,18
+1477579,349854,Shake Shack,American,24.35,Weekday,5,34,26
+1476753,195723,Cafe Habana,Mexican,13.97,Weekday,3,34,28
+1477547,242754,Rubirosa,Italian,13.92,Weekend,Not given,29,27
+1476840,143866,Jack's Wife Freda,Mediterranean,20.71,Weekend,Not given,35,16
+1477202,259341,Joe's Shanghai _Àü£¾÷´,Chinese,16.1,Weekend,5,31,22
+1477150,92832,Five Guys Burgers and Fries,American,12.23,Weekend,5,22,22
+1477956,177078,Lantern Thai Kitchen,Thai,9.46,Weekend,5,29,19
+1477016,78067,Parm,Italian,15.37,Weekend,Not given,29,23
+1477243,176234,Prosperity Dumpling,Chinese,14.02,Weekend,5,20,30
+1476843,361846,Sarabeth's West,American,14.12,Weekday,3,21,33
+1477298,361728,The Meatball Shop,Italian,29.05,Weekend,4,32,19
+1477490,232035,ilili Restaurant,Middle Eastern,9.17,Weekend,Not given,26,19
+1477235,115841,Rubirosa,Italian,15.38,Weekday,Not given,30,31
+1478288,58231,Rohm Thai,Thai,29.1,Weekend,Not given,31,23
+1476742,92096,Aurora,Italian,6.74,Weekday,Not given,30,26
+1476857,220186,Blue Ribbon Fried Chicken,American,12.23,Weekday,5,33,26
+1476712,385150,Blue Ribbon Sushi,Japanese,9.75,Weekday,5,27,27
+1477488,344586,Sushi of Gari 46,Japanese,12.56,Weekend,4,20,22
+1476671,49620,Cafe Habana,Mexican,8.73,Weekday,3,27,28
+1477805,290313,RedFarm Broadway,Chinese,21.93,Weekend,Not given,22,22
+1476558,214394,Yama Japanese Restaurant,Japanese,16.1,Weekend,Not given,33,27
+1478101,105068,TAO,Japanese,13.97,Weekend,5,28,25
+1477170,197832,The Meatball Shop,Italian,12.08,Weekday,Not given,25,28
+1477371,369452,UVA Wine Bar & Restaurant,Italian,29.15,Weekend,Not given,29,30
+1477749,362842,Cafe Habana,Mexican,9.75,Weekday,5,34,30
+1477601,107909,Cafeteria,American,6.69,Weekday,4,21,32
+1477930,100065,Han Dynasty,Chinese,6.64,Weekend,Not given,25,29
+1476972,111356,Bhatti Indian Grill,Indian,32.98,Weekday,Not given,32,30
+1477958,309981,Blue Ribbon Fried Chicken,American,29.1,Weekend,Not given,31,27
+1477105,67844,The Smile,American,9.17,Weekday,5,26,28
+1478423,129969,The Meatball Shop,Italian,21.2,Weekend,Not given,34,16
+1477111,127149,P.J. Clarke's,American,31.33,Weekend,4,26,19
+1477677,181782,Parm,Italian,8.78,Weekend,3,23,26
+1477329,80737,RedFarm Broadway,Chinese,12.9,Weekday,3,29,29
+1477250,41409,Nobu Next Door,Japanese,19.35,Weekend,4,28,30
+1477751,385134,RedFarm Broadway,Chinese,16.2,Weekend,5,29,18
+1477341,127122,RedFarm Broadway,Chinese,22.36,Weekend,Not given,24,27
+1477576,105087,Rubirosa,Italian,14.12,Weekday,4,26,32
+1477319,145389,Westville Hudson,American,20.23,Weekday,Not given,31,29
+1478109,87006,Nobu Next Door,Japanese,11.59,Weekend,5,26,24
+1477497,76942,Sarabeth's Restaurant,American,12.27,Weekend,5,24,24
+1478440,231042,Momoya,Japanese,12.13,Weekend,5,22,21
+1476578,97079,Donburi-ya,Japanese,12.18,Weekend,Not given,23,23
+1476748,109906,The Meatball Shop,American,9.27,Weekend,Not given,24,23
+1477924,288808,The Meatball Shop,Italian,32.98,Weekday,5,26,27
+1478318,263426,TAO,Japanese,22.12,Weekday,5,32,30
+1476721,131645,The Meatball Shop,Italian,12.08,Weekend,Not given,23,23
+1476707,144133,Shake Shack,American,22.75,Weekday,4,21,27
+1478356,62540,Blue Ribbon Sushi,Japanese,16.44,Weekend,Not given,22,18
+1477800,344268,Sushi Choshi,Japanese,13.73,Weekend,3,35,27
+1477734,81658,The Meatball Shop,Italian,29.25,Weekday,5,35,29
+1476605,366975,Blue Ribbon Sushi Bar & Grill,Japanese,19.35,Weekend,Not given,23,17
+1478255,382076,Shake Shack,American,6.69,Weekday,Not given,20,29
+1476547,83095,Bareburger,American,6.84,Weekend,5,22,24
+1477714,100536,Shake Shack,American,8.15,Weekend,Not given,26,17
+1478161,52327,Sushi of Gari,Japanese,16.01,Weekend,Not given,33,19
+1478351,78939,Blue Ribbon Sushi,Japanese,12.08,Weekend,5,31,16
+1477917,71249,Momoya,Japanese,24.3,Weekend,4,35,30
+1476765,147519,Sushi of Gari Tribeca,Japanese,19.45,Weekend,4,25,15
+1477038,96877,The Meatball Shop,Italian,12.18,Weekend,5,25,28
+1478032,146586,Dirty Bird to Go,American,19.4,Weekend,4,25,19
+1478302,318665,Blue Ribbon Sushi Bar & Grill,Japanese,4.9,Weekday,4,29,32
+1478193,83287,Five Guys Burgers and Fries,American,16.01,Weekend,Not given,27,19
+1476796,78939,Nobu Next Door,Japanese,16.3,Weekday,3,20,24
+1476823,60039,Blue Ribbon Sushi,Japanese,12.13,Weekday,Not given,32,29
+1477556,168420,Blue Ribbon Brooklyn,American,13.1,Weekend,Not given,32,19
+1478398,137617,Blue Ribbon Fried Chicken,American,24.3,Weekend,5,34,21
+1477760,130507,Jack's Wife Freda,Mediterranean,22.75,Weekend,3,35,29
+1476607,197633,Sushi of Gari 46,Japanese,7.38,Weekend,Not given,29,28
+1476696,231061,Han Dynasty,Chinese,33.03,Weekday,Not given,33,31
+1477296,222879,Parm,Italian,29.15,Weekday,5,23,27
+1478215,92726,Sarabeth's East,American,25.27,Weekend,4,23,19
+1476948,86421,Vanessa's Dumpling House,Chinese,9.65,Weekend,5,20,22
+1477977,43856,Han Dynasty,Chinese,16.01,Weekend,5,30,16
+1476805,93133,Parm,Italian,22.8,Weekday,5,33,33
+1476639,399172,Blue Ribbon Fried Chicken,American,14.07,Weekday,Not given,20,31
+1477602,320493,Vanessa's Dumplings,Chinese,16.78,Weekend,5,27,29
+1477179,52832,L'Express,French,24.2,Weekday,Not given,28,24
+1477138,47280,RedFarm Hudson,Chinese,14.12,Weekend,4,25,24
+1477323,59181,RedFarm Hudson,Chinese,12.13,Weekend,5,28,29
+1477555,361497,V-Nam Cafe,Vietnamese,12.13,Weekend,4,20,26
+1476653,113972,RedFarm Hudson,Chinese,12.13,Weekend,3,31,25
+1477627,359699,RedFarm Hudson,Chinese,7.03,Weekday,5,32,24
+1477410,39011,Mamoun's Falafel,Mediterranean,9.07,Weekend,Not given,20,24
+1477447,398952,Han Dynasty,Chinese,5.82,Weekend,Not given,26,24
+1477524,236739,Xi'an Famous Foods,Chinese,19.45,Weekend,5,28,18
+1477699,302790,Klong,Thai,29.05,Weekend,5,35,24
+1477574,212326,RedFarm Broadway,Chinese,12.32,Weekday,Not given,30,27
+1478427,86806,Pylos,Mediterranean,14.12,Weekday,4,26,24
+1476598,41168,Parm,Italian,12.13,Weekend,3,34,22
+1477754,133222,P.J. Clarke's,American,21.34,Weekday,5,25,28
+1477870,301032,Mission Cantina,Mexican,14.45,Weekend,Not given,27,29
+1478024,241719,Sushi of Gari Tribeca,Japanese,14.12,Weekend,Not given,21,29
+1478336,138426,Tony's Di Napoli,Italian,5.82,Weekend,5,26,26
+1477325,54110,Parm,Italian,19.35,Weekday,4,23,26
+1477407,123535,RedFarm Hudson,Chinese,12.61,Weekend,5,31,22
+1477326,52031,Han Dynasty,Chinese,21.93,Weekend,Not given,24,20
+1478087,96921,Bareburger,American,8.39,Weekend,3,27,30
+1477420,399478,Shake Shack,American,14.07,Weekend,Not given,25,28
+1478067,237616,Shake Shack,American,12.13,Weekday,3,22,27
+1477385,67538,Chipotle Mexican Grill $1.99 Delivery,Mexican,12.56,Weekend,5,22,18
+1478354,52037,Blue Ribbon Fried Chicken,American,19.89,Weekday,Not given,27,24
+1476736,60835,Nobu Next Door,Japanese,12.46,Weekend,4,35,28
+1476817,97079,Benihana,Japanese,29.05,Weekend,Not given,25,26
+1477543,59105,Sushi of Gari 46,Japanese,12.13,Weekend,5,27,20
+1476833,388420,Sushi of Gari 46,Japanese,9.02,Weekend,5,32,17
+1476676,186473,Blue Ribbon Sushi,Japanese,16.06,Weekday,Not given,34,33
+1477954,130237,Tamarind TriBeCa,Indian,16.98,Weekend,5,22,17
+1478326,82901,Il Bambino,Italian,29.25,Weekend,4,34,29
+1478062,109107,Burger Joint,American,15.72,Weekend,4,31,30
+1477495,92806,Shake Shack,American,14.94,Weekday,Not given,33,31
+1477570,292343,Amy Ruth's,Southern,16.11,Weekend,4,30,26
+1477467,164005,Sushi of Gari,Japanese,14.07,Weekend,Not given,35,26
+1477441,275689,Blue Ribbon Sushi,Japanese,12.23,Weekend,Not given,20,24
+1478178,125834,The Meatball Shop,Italian,12.23,Weekend,5,25,19
+1477003,120833,Bareburger,American,32.93,Weekend,Not given,29,24
+1478322,57943,RedFarm Broadway,Chinese,24.25,Weekday,5,25,25
+1478002,348096,The Meatball Shop,Italian,12.13,Weekend,5,34,16
+1478338,150865,Vanessa's Dumpling House,Chinese,5.72,Weekend,Not given,20,21
+1476925,354719,The Meatball Shop,Italian,14.02,Weekday,5,32,32
+1477335,84457,Nobu Next Door,Japanese,29.15,Weekend,Not given,27,15
+1477803,165110,Room Service,Thai,12.23,Weekend,Not given,35,16
+1476903,53874,Sarabeth's,American,25.17,Weekend,3,28,23
+1477183,127934,Blue Ribbon Fried Chicken,American,33.03,Weekend,5,35,25
+1478055,7567,indikitch,Indian,5.58,Weekend,Not given,35,30
+1476851,361220,Carmine's,Italian,19.98,Weekday,5,34,30
+1478246,260680,Delicatessen,American,32.98,Weekend,5,34,16
+1477357,5444,Go! Go! Curry!,Japanese,20.18,Weekend,3,22,29
+1478404,97991,Blue Ribbon Sushi Bar & Grill,Japanese,33.03,Weekend,5,28,15
+1477172,59749,Bareburger,American,19.35,Weekday,4,33,27
+1477983,334373,Five Guys Burgers and Fries,American,14.12,Weekday,5,23,32
+1477193,304291,P.J. Clarke's,American,5.92,Weekday,3,33,30
+1477141,66331,Shake Shack,American,24.3,Weekend,5,21,24
+1477893,63513,Mamoun's Falafel,Mediterranean,5.92,Weekday,Not given,31,33
+1477032,60052,Rubirosa,Italian,29.1,Weekend,5,30,28
+1477663,93133,Nobu Next Door,Japanese,29.29,Weekday,4,30,24
+1477187,353331,Chipotle Mexican Grill $1.99 Delivery,Mexican,12.13,Weekend,5,34,19
+1477987,104563,Blue Ribbon Sushi,Japanese,24.25,Weekend,4,24,23
+1477934,60052,RedFarm Broadway,Chinese,12.61,Weekend,5,28,21
+1477078,115231,Izakaya Ten,Japanese,12.23,Weekday,5,23,24
+1476610,53212,TAO,Japanese,12.27,Weekday,Not given,26,29
+1477557,140501,The Meatball Shop,Italian,22.36,Weekend,5,32,21
+1477816,187187,Momoya,Japanese,11.59,Weekend,3,24,29
+1478115,93308,Shake Shack,American,5.77,Weekend,4,28,18
+1477961,167738,Jack's Wife Freda,Mediterranean,31.43,Weekend,5,34,20
+1477330,198802,DuMont Burger,American,24.25,Weekend,3,28,20
+1476984,286386,5 Napkin Burger,American,7.91,Weekday,Not given,29,26
+1477908,378923,Vanessa's Dumpling House,Chinese,12.18,Weekend,Not given,27,18
+1477164,74424,Shake Shack,American,15.77,Weekend,3,29,20
+1478247,104555,Sushi of Gari,Japanese,32.98,Weekend,4,34,21
+1478347,251817,Blue Ribbon Fried Chicken,American,15.71,Weekend,3,27,25
+1477698,60835,Parm,Italian,29.35,Weekend,5,29,17
+1476897,197265,Hill Country Fried Chicken,Southern,29.15,Weekend,Not given,20,17
+1477124,270789,Vanessa's Dumplings,Chinese,9.51,Weekend,Not given,31,23
+1477824,345899,TAO,Japanese,20.47,Weekend,4,26,30
+1478348,310051,Parm,Italian,14.99,Weekend,Not given,34,24
+1478176,240982,Rubirosa,Italian,29.1,Weekend,5,28,16
+1477635,124393,Amma,Indian,31.43,Weekday,5,20,27
+1477040,301618,Vanessa's Dumplings,Chinese,25.22,Weekday,Not given,32,24
+1476880,216258,Momoya,Japanese,9.41,Weekend,5,26,20
+1476893,164131,Tony's Di Napoli,Italian,14.07,Weekend,Not given,22,27
+1478375,214028,Boqueria,Spanish,22.85,Weekend,5,28,30
+1477876,129823,Rubirosa,Italian,12.23,Weekend,Not given,21,18
+1478157,58871,Shake Shack,American,8.05,Weekday,4,25,27
+1477841,18902,Rubirosa,Italian,21.88,Weekend,4,28,27
+1477376,370372,Blue Ribbon Fried Chicken,American,11.59,Weekday,Not given,25,24
+1478027,41907,Parm,Italian,22.75,Weekday,Not given,30,27
+1477053,398489,Five Guys Burgers and Fries,American,14.07,Weekday,Not given,24,26
+1478270,303548,Shake Shack,American,14.02,Weekend,4,20,21
+1477899,165485,Parm,Italian,8.68,Weekend,Not given,20,19
+1477068,108046,Rubirosa,Italian,12.18,Weekend,Not given,33,20
+1477540,341136,Blue Ribbon Sushi,Japanese,13.78,Weekend,4,32,23
+1477504,71613,Empanada Mama (closed),Mexican,15.57,Weekend,4,24,20
+1476549,75169,Tamarind TriBeCa,Indian,6.74,Weekend,5,25,26
+1477863,128216,Shake Shack,American,8.2,Weekday,4,33,26
+1477073,87752,Shake Shack,American,29.05,Weekend,5,21,22
+1477895,143926,Big Wong Restaurant _¤¾Ñ¼,Chinese,5.92,Weekday,Not given,34,28
+1478297,180618,Bareburger,American,24.2,Weekend,5,27,24
+1477060,94152,Empanada Mama (closed),Mexican,14.21,Weekend,Not given,27,25
+1476846,82041,Parm,Italian,22.8,Weekend,Not given,35,20
+1477797,194778,Shake Shack,American,16.06,Weekend,5,30,17
+1476774,114400,Shake Shack,American,29.39,Weekday,Not given,23,33
+1478431,245862,S'MAC,American,16.49,Weekend,5,27,19
+1478147,372415,Five Guys Burgers and Fries,American,12.18,Weekend,Not given,21,19
+1478340,230535,Shake Shack,American,10.38,Weekend,3,24,29
+1478130,114410,The Meatball Shop,Italian,12.18,Weekend,Not given,20,16
+1477577,290693,Shake Shack,American,14.02,Weekend,5,26,21
+1478082,103005,Yama Japanese Restaurant,Japanese,5.77,Weekend,Not given,34,21
+1476784,105385,Han Dynasty,Chinese,24.2,Weekend,5,23,15
+1476588,128711,RedFarm Hudson,Chinese,9.51,Weekend,3,29,26
+1477145,207281,Shake Shack,American,29.3,Weekday,5,33,32
+1476626,84087,The Meatball Shop,Italian,6.69,Weekend,Not given,25,22
+1477231,63147,Shake Shack,American,12.61,Weekend,4,29,19
+1477826,381020,RedFarm Broadway,Chinese,8.2,Weekend,4,31,30
+1478374,64151,Rubirosa,Italian,5.97,Weekend,3,30,25
+1478371,258275,Cafe Habana,Mexican,25.17,Weekend,Not given,27,26
+1477616,128600,Tamarind TriBeCa,Indian,14.07,Weekend,4,26,21
+1478195,115519,Blue Ribbon Fried Chicken,American,20.23,Weekday,4,20,26
+1477413,325272,Shake Shack,American,16.1,Weekend,Not given,28,24
+1476902,165110,Room Service,Thai,22.31,Weekend,Not given,22,15
+1477370,89889,Sushi of Gari 46,Japanese,29.1,Weekday,5,32,30
+1477763,111356,Blue Ribbon Sushi,Japanese,13.87,Weekday,Not given,31,30
+1477004,250494,Five Guys Burgers and Fries,American,33.03,Weekend,5,29,15
+1478079,54608,Tamarind TriBeCa,Indian,25.22,Weekend,5,30,26
+1477606,39406,RedFarm Broadway,Chinese,9.27,Weekday,4,32,29
+1477535,125123,S'MAC,American,15.57,Weekend,5,34,28
+1476921,121476,Blue Ribbon Fried Chicken,American,12.18,Weekday,3,29,27
+1477115,87752,Shake Shack,American,24.25,Weekday,5,20,27
+1478308,358158,Galli Restaurant,Italian,16.06,Weekend,5,22,16
+1476659,52463,RedFarm Broadway,Chinese,31.33,Weekend,3,33,23
+1477094,384571,Blue Ribbon Fried Chicken,American,22.31,Weekday,5,28,27
+1476852,369809,Five Guys Burgers and Fries,American,19.45,Weekday,3,28,28
+1477738,97346,Osteria Morini,Italian,12.13,Weekend,5,22,26
+1477907,213212,Blue Ribbon Fried Chicken,American,14.65,Weekend,Not given,34,23
+1476617,53513,The Meatball Shop,Italian,31.33,Weekend,3,30,15
+1477634,387227,Blue Ribbon Sushi Bar & Grill,Japanese,29.25,Weekday,Not given,25,29
+1477358,83287,Boqueria,Spanish,14.5,Weekend,Not given,35,29
+1477853,115213,Junoon,Indian,28.62,Weekday,5,21,32
+1477558,268365,Cafe Mogador,Middle Eastern,25.17,Weekend,4,23,30
+1477905,164626,The Meatball Shop,Italian,15.57,Weekend,4,20,24
+1476606,350085,The Meatball Shop,Italian,17.03,Weekday,Not given,22,29
+1477196,50123,Cafe Habana,Mexican,4.85,Weekend,5,28,22
+1477292,386766,Parm,Italian,17.03,Weekday,3,21,27
+1477382,69025,Han Dynasty,Chinese,6.84,Weekend,5,22,22
+1477658,80795,Tamarind TriBeCa,Indian,14.02,Weekday,Not given,20,25
+1476922,66373,Balthazar Boulangerie,French,12.18,Weekend,3,24,29
+1478144,155124,The Meatball Shop,Italian,33.03,Weekend,5,30,16
+1476644,142461,Shake Shack,American,16.93,Weekend,5,35,28
+1477595,370337,Blue Ribbon Fried Chicken,American,12.23,Weekend,Not given,30,20
+1478028,44594,Shake Shack,American,24.25,Weekend,5,31,28
+1478184,232359,The Meatball Shop,American,5.82,Weekend,5,30,30
+1476909,366975,Blue Ribbon Sushi Bar & Grill,Japanese,4.85,Weekend,5,20,21
+1477177,42385,Song Thai Restaurant & Bar,Thai,24.2,Weekend,5,21,26
+1477845,127056,Blue Ribbon Sushi,Japanese,24.3,Weekday,5,21,33
+1477580,79849,Chipotle Mexican Grill $1.99 Delivery,Mexican,15.23,Weekend,Not given,31,21
+1476831,169478,RedFarm Broadway,Chinese,12.61,Weekend,4,32,17
+1476708,126026,Nobu Next Door,Japanese,9.51,Weekend,Not given,25,29
+1477979,201438,S'MAC,American,14.55,Weekend,Not given,29,29
+1476998,140279,Blue Ribbon Sushi Bar & Grill,Japanese,12.95,Weekday,Not given,28,28
+1477395,56219,Parm,Italian,14.55,Weekday,5,30,32
+1477623,41136,The Meatball Shop,Italian,19.35,Weekend,Not given,27,20
+1477010,49631,The Meatball Shop,Italian,19.4,Weekend,Not given,28,17
+1477976,69348,RedFarm Broadway,Chinese,16.1,Weekend,5,21,27
+1477380,108659,Rubirosa,Italian,25.27,Weekday,4,23,31
+1477740,129798,TAO,Japanese,25.27,Weekday,4,24,24
+1478143,337525,TAO,Japanese,33.22,Weekend,Not given,23,19
+1476850,85091,The Meatball Shop,Italian,13.05,Weekday,5,23,31
+1478234,102620,Balthazar Boulangerie,French,12.23,Weekend,4,35,23
+1476978,177250,RedFarm Hudson,Chinese,25.27,Weekend,Not given,34,28
+1476658,127149,P.J. Clarke's,American,31.43,Weekend,4,31,23
+1477787,14869,Shake Shack,American,4.8,Weekend,4,22,24
+1478021,97991,Blue Ribbon Sushi Bar & Grill,Japanese,22.26,Weekday,Not given,20,26
+1478243,159626,Blue Ribbon Sushi,Japanese,29.1,Weekend,4,21,15
+1477861,125320,Shake Shack,American,20.57,Weekend,5,24,19
+1478305,62359,Rubirosa,Italian,8.0,Weekday,4,27,29
+1478400,353331,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.05,Weekend,Not given,28,27
+1477920,83504,Balthazar Boulangerie,French,29.15,Weekday,4,31,28
+1476988,94115,Moonstruck on Second,American,14.94,Weekend,5,27,20
+1477935,378482,Lamarca Pasta,Italian,9.22,Weekend,Not given,23,19
+1476853,139626,L'Express,French,16.98,Weekday,Not given,35,29
+1476627,120385,Westville Hudson,American,16.98,Weekend,5,34,20
+1477481,47440,Bareburger,American,25.22,Weekday,3,31,27
+1477158,363561,Shake Shack,American,8.49,Weekday,Not given,33,32
+1477941,64830,Cafeteria,American,15.52,Weekend,3,28,30
+1477254,58898,Blue Ribbon Sushi,Japanese,8.1,Weekend,5,35,18
+1478257,41877,Cafe Mogador,Middle Eastern,6.69,Weekend,4,23,30
+1476593,175703,The Meatball Shop,Italian,20.61,Weekend,Not given,34,30
+1477741,46859,The Meatball Shop,Italian,6.84,Weekend,Not given,25,18
+1477435,154030,Hatsuhana,Japanese,29.49,Weekend,4,22,23
+1478164,138024,Cho Dang Gol,Korean,11.84,Weekend,5,25,16
+1477696,54809,RedFarm Broadway,Chinese,24.3,Weekday,5,24,31
+1477991,69713,The Meatball Shop,Italian,19.35,Weekend,5,21,23
+1478272,318874,The Kati Roll Company,Indian,14.07,Weekend,5,33,17
+1477468,109221,Tortaria,Mexican,13.0,Weekday,5,21,24
+1477726,268958,Osteria Morini,Italian,19.45,Weekend,Not given,26,29
+1477520,178158,Chipotle Mexican Grill $1.99 Delivery,Mexican,31.33,Weekend,4,35,21
+1478339,35643,Vanessa's Dumpling House,Chinese,18.43,Weekend,5,34,28
+1477989,102801,ilili Restaurant,Middle Eastern,13.73,Weekday,5,22,33
+1477793,318451,Blue Ribbon Sushi,Japanese,8.54,Weekday,4,22,26
+1477867,138426,Tony's Di Napoli,Italian,15.81,Weekend,5,35,30
+1476953,252342,Westville Hudson,American,20.13,Weekend,4,29,19
+1478038,45164,Shake Shack,American,12.18,Weekend,Not given,31,28
+1478013,283884,Westville Hudson,American,12.56,Weekend,5,26,28
+1478054,170221,Shake Shack,American,5.72,Weekend,Not given,24,19
+1478075,232359,The Meatball Shop,American,29.25,Weekend,3,21,19
+1476885,133349,Vanessa's Dumplings,Chinese,20.23,Weekend,5,33,17
+1476979,81166,Dos Caminos,Mexican,6.11,Weekend,5,26,21
+1477146,49793,Yama Japanese Restaurant,Japanese,32.93,Weekend,5,29,17
+1476641,57943,brgr,American,14.07,Weekend,Not given,26,24
+1477665,231061,Han Dynasty,Chinese,34.19,Weekday,Not given,21,31
+1477955,198936,Five Leaves,American,10.24,Weekday,Not given,22,25
+1476966,129969,Blue Ribbon Fried Chicken,American,24.3,Weekend,5,23,17
+1476688,200672,Cafe Mogador,Middle Eastern,13.0,Weekend,Not given,21,15
+1477211,304365,Sarabeth's Restaurant,American,21.93,Weekend,Not given,25,27
+1476819,104548,Tarallucci e Vino Restaurant,Italian,29.1,Weekday,Not given,28,33
+1478134,82041,Sushi of Gari Tribeca,Japanese,21.83,Weekday,Not given,34,30
+1476939,111894,The Meatball Shop,Italian,25.27,Weekend,Not given,25,29
+1478341,254913,Shake Shack,American,10.82,Weekend,4,34,20
+1478366,270149,Samurai Mama,Japanese,11.64,Weekend,5,21,18
+1476971,250494,Parm,Italian,28.57,Weekday,5,22,32
+1477036,162330,Shake Shack,American,11.64,Weekend,Not given,23,29
+1477866,44706,Blue Ribbon Sushi,Japanese,9.41,Weekend,5,24,18
+1477431,195927,Boqueria,Spanish,12.13,Weekend,5,30,20
+1477732,399729,Shake Shack,American,24.25,Weekend,4,20,29
+1476628,70456,Parm,Italian,12.56,Weekday,Not given,32,28
+1476839,107909,Shake Shack,American,14.07,Weekend,Not given,33,21
+1478307,365225,Sarabeth's Restaurant,American,15.91,Weekday,Not given,20,31
+1478248,113926,Han Dynasty,Chinese,33.03,Weekday,5,35,32
+1478080,312853,Five Guys Burgers and Fries,American,25.27,Weekend,5,27,29
+1476911,74707,Bareburger,American,8.63,Weekend,4,21,22
+1477836,373689,Bareburger,American,12.08,Weekend,Not given,29,20
+1477442,184325,Asuka Sushi,Japanese,19.45,Weekend,5,23,23
+1477400,68775,Sushi of Gari Tribeca,Japanese,29.15,Weekend,4,22,17
+1477324,263426,Blue Ribbon Sushi Izakaya,Japanese,12.13,Weekday,5,30,29
+1478428,53543,The Smile,American,12.18,Weekday,5,29,27
+1477244,47386,Bubby's ,American,12.18,Weekday,4,28,31
+1478381,111909,Ravagh Persian Grill,Middle Eastern,16.06,Weekend,Not given,28,21
+1478401,112272,The Kati Roll Company,Indian,29.25,Weekend,Not given,30,21
+1478047,127934,Blue Ribbon Fried Chicken,American,12.13,Weekend,Not given,20,26
+1476848,365401,Dirty Bird To Go (archived),American,15.57,Weekend,Not given,30,24
+1477779,39275,TAO,Japanese,31.43,Weekend,Not given,34,20
+1477815,144997,RedFarm Hudson,Chinese,32.93,Weekend,Not given,33,30
+1477753,65306,Sushi of Gari Tribeca,Japanese,14.79,Weekend,Not given,32,24
+1476573,370405,Haveli Indian Restaurant,Indian,29.1,Weekday,3,23,24
+1476693,41877,Cafe Mogador,Middle Eastern,29.1,Weekday,5,20,29
+1478106,129206,Shake Shack,American,29.15,Weekday,Not given,34,28
+1477127,314480,Shake Shack,American,15.76,Weekday,5,30,24
+1478414,41409,Nobu Next Door,Japanese,12.66,Weekend,Not given,20,21
+1476997,103005,Yama Japanese Restaurant,Japanese,14.55,Weekend,5,20,28
+1476557,348787,Otto Enoteca Pizzeria,Italian,16.15,Weekend,Not given,35,22
+1477814,62359,Pylos,Mediterranean,35.41,Weekday,4,21,29
+1477238,87727,Blue Ribbon Sushi,Japanese,13.87,Weekend,Not given,28,28
+1478409,151333,Melt Shop,American,25.27,Weekend,5,27,30
+1477928,70709,RedFarm Hudson,Chinese,25.17,Weekend,Not given,21,17
+1477157,92006,Blue Ribbon Sushi Bar & Grill,Japanese,10.82,Weekend,Not given,25,24
+1478306,358158,Parm,Italian,9.12,Weekend,Not given,23,21
+1477755,107909,Cafeteria,American,12.08,Weekend,3,35,28
+1477334,106968,Blue Ribbon Fried Chicken,American,29.2,Weekend,3,25,15
+1477727,333311,Blue Ribbon Sushi Izakaya,Japanese,21.93,Weekend,Not given,35,26
+1476779,378820,Sushi Samba,Japanese,31.33,Weekend,5,35,20
+1478337,100527,Empanada Mama (closed),Mexican,5.92,Weekday,3,34,25
+1476867,91879,da Umberto,Italian,12.27,Weekday,5,20,30
+1477224,147468,Tamarind TriBeCa,Indian,25.22,Weekday,3,20,24
+1478189,105138,Han Dynasty,Chinese,8.97,Weekend,4,33,19
+1476895,105460,Burger Joint,American,13.1,Weekend,Not given,22,18
+1477247,385559,Blue Ribbon Fried Chicken,American,14.02,Weekend,5,20,28
+1476891,220693,Shake Shack,American,19.89,Weekend,Not given,27,19
+1477788,270444,P.J. Clarke's,American,4.71,Weekend,Not given,23,15
+1477603,399121,Blue Ribbon Sushi,Japanese,11.3,Weekday,Not given,24,24
+1477882,80737,RedFarm Broadway,Chinese,24.2,Weekday,Not given,22,33
+1477509,382076,Shake Shack,American,16.93,Weekend,Not given,25,26
+1477117,104336,Nobu Next Door,Japanese,5.77,Weekday,4,29,24
+1476973,101746,Cafeteria,American,11.59,Weekend,Not given,24,19
+1476883,354948,Westville Hudson,American,16.01,Weekend,5,20,18
+1477868,27609,Blue Ribbon Sushi Bar & Grill,Japanese,15.81,Weekend,Not given,21,25
+1477462,304707,Han Dynasty,Chinese,12.08,Weekend,5,27,29
+1478008,374826,Dos Caminos,Mexican,6.74,Weekend,5,32,26
+1476910,397362,TAO,Japanese,8.1,Weekend,5,32,16
+1477018,53947,Shake Shack,American,15.52,Weekend,5,33,17
+1478034,77786,Sushi of Gari Tribeca,Japanese,17.03,Weekend,Not given,23,22
+1478050,54189,Nobu Next Door,Japanese,19.4,Weekend,Not given,28,29
+1476985,64370,The Meatball Shop,Italian,9.65,Weekend,Not given,29,16
+1478197,41205,Shake Shack,American,12.08,Weekend,5,28,23
+1477321,89844,Five Guys Burgers and Fries,American,12.08,Weekend,Not given,20,18
+1477021,231453,Mamoun's Falafel,Mediterranean,14.46,Weekend,Not given,20,29
+1477253,111125,Blue Ribbon Sushi,Japanese,8.54,Weekend,5,34,29
+1478387,70564,Jack's Wife Freda,Mediterranean,12.08,Weekend,5,30,19
+1476596,199735,The Meatball Shop,Italian,14.12,Weekend,Not given,32,18
+1477069,377260,Blue Ribbon Fried Chicken,American,12.18,Weekend,5,35,27
+1477026,355592,CafÌ© China,Chinese,21.83,Weekend,4,32,15
+1477418,387102,Vanessa's Dumplings,Chinese,14.02,Weekend,4,22,24
+1478346,66498,Shake Shack,American,16.2,Weekday,Not given,27,30
+1478229,64153,Blue Ribbon Fried Chicken,American,21.34,Weekend,Not given,35,23
+1476806,203370,Chipotle Mexican Grill $1.99 Delivery,Mexican,24.3,Weekday,Not given,21,33
+1478207,62161,Tamarind TriBeCa,Indian,24.2,Weekend,4,28,26
+1477762,91397,Chipotle Mexican Grill $1.99 Delivery,Mexican,14.16,Weekday,Not given,22,24
+1476551,49034,The Smile,American,12.18,Weekend,Not given,22,27
+1476950,270444,P.J. Clarke's,American,15.96,Weekend,Not given,27,18
+1476701,292602,Chipotle Mexican Grill $1.99 Delivery,Mexican,22.31,Weekend,5,31,17
+1478117,56642,Bareburger,American,22.85,Weekday,Not given,21,30
+1477066,376381,Shake Shack,American,8.25,Weekend,Not given,30,15
+1477850,216438,Blue Ribbon Sushi,Japanese,29.25,Weekend,Not given,33,17
+1477851,66373,Blue Ribbon Sushi Izakaya,Japanese,32.93,Weekend,4,21,19
+1477639,211035,Blue Ribbon Sushi,Japanese,19.45,Weekday,Not given,28,28
+1477163,376578,Shake Shack,American,15.76,Weekend,5,32,24
+1477526,344079,Olea,Mediterranean,24.2,Weekend,Not given,20,16
+1476681,68258,Parm,Italian,12.13,Weekday,4,23,31
+1477221,125510,Blue Ribbon Sushi Izakaya,Japanese,33.03,Weekend,3,34,23
+1476670,355970,The Meatball Shop,Italian,7.61,Weekend,3,20,26
+1478266,297413,The Meatball Shop,Italian,16.1,Weekend,Not given,20,15
+1476730,344577,Chipotle Mexican Grill $1.99 Delivery,Mexican,29.05,Weekend,4,22,21
+1476919,387227,Blue Ribbon Sushi Bar & Grill,Japanese,13.15,Weekend,5,30,30
+1477056,298824,Shake Shack,American,12.18,Weekend,Not given,23,18
+1477783,73895,RedFarm Broadway,Chinese,19.4,Weekend,5,24,25
+1476632,120385,Westville Hudson,American,9.51,Weekend,Not given,27,28
+1476949,14869,Pepe Rosso To Go,Italian,16.3,Weekend,Not given,23,30
+1476841,398426,RedFarm Broadway,Chinese,12.46,Weekend,4,24,20
+1477844,134340,Mira Sushi,Japanese,13.05,Weekend,4,33,29
+1477178,47440,Bareburger,American,24.2,Weekend,4,23,23
+1476714,363783,Cafe Mogador,Middle Eastern,15.86,Weekday,Not given,32,29
+1476860,336162,Nobu Next Door,Japanese,29.15,Weekday,5,28,25
+1477549,297130,L'Express,French,29.2,Weekend,5,21,29
+1478269,250494,The Meatball Shop,Italian,11.16,Weekday,5,22,28
+1477336,94480,The Meatball Shop,Italian,32.93,Weekend,5,34,29
+1478180,270525,The Smile,American,22.26,Weekend,5,25,26
+1476940,197633,Sushi of Gari 46,Japanese,5.77,Weekday,4,32,24
+1476608,297674,Burger Joint,American,7.81,Weekend,3,33,24
+1477051,57174,Tortaria,Mexican,19.31,Weekend,Not given,27,28
+1477356,354923,CafÌ© China,Chinese,15.57,Weekday,4,34,31
+1477314,52832,ilili Restaurant,Middle Eastern,9.46,Weekday,4,25,25
+1478162,241080,TAO,Japanese,15.52,Weekend,4,32,27
+1477903,47440,Bareburger,American,16.25,Weekend,Not given,32,28
+1477454,210544,DespaÌ±a,Spanish,16.06,Weekend,5,21,17
+1476936,260035,Blue Ribbon Sushi Bar & Grill,Japanese,14.12,Weekend,Not given,31,25
+1476727,49086,Jack's Wife Freda,Mediterranean,12.95,Weekday,3,22,33
+1476710,65009,Blue Ribbon Sushi Izakaya,Japanese,8.93,Weekend,5,28,18
+1478433,94700,Haandi,Indian,13.1,Weekend,Not given,31,30
+1477802,85091,The Meatball Shop,Italian,12.13,Weekend,4,21,25
+1476993,301825,RedFarm Broadway,Chinese,12.23,Weekend,Not given,32,19
+1477201,332635,TAO,Japanese,16.05,Weekend,4,23,20
+1477464,320187,TAO,Japanese,19.35,Weekend,Not given,34,22
+1477925,347181,RedFarm Hudson,Chinese,11.64,Weekend,Not given,34,18
+1477130,365469,Wo Hop Restaurant,Chinese,14.16,Weekend,4,22,16
+1477712,373633,Yama 49,Japanese,12.61,Weekday,5,23,28
+1477592,87357,Shake Shack,American,31.43,Weekend,5,30,19
+1476672,105385,Han Dynasty,Chinese,8.54,Weekend,4,31,15
+1477339,68965,RedFarm Hudson,Chinese,12.18,Weekend,Not given,20,18
+1476571,334758,Melt Shop,American,29.15,Weekend,4,26,17
+1477269,255697,Sushi Samba,Japanese,6.84,Weekend,5,27,20
